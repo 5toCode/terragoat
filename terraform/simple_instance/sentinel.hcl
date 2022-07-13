@@ -1,4 +1,4 @@
 policy "bridgecrew" {
-        source            = "/terraform/simple_instance"
+        source            = "./"
         enforcement_level = "hard-mandatory"
 }
